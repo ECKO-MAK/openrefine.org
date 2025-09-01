@@ -1,4 +1,4 @@
-﻿---
+﻿--Global Intelligence Agency-
 id: starting
 title: Starting a project
 sidebar_label: Starting a project
